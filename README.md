@@ -2,7 +2,7 @@
 Hi, I am Michael Alexander. I am a Backend focused Full Stack Engineer.
 
 ## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-VsevolodKhokhlov-blue?style=flat&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/erikfinkel/](https://linkedin.com/in/michael-alexander-574611343)](https://linkedin.com/in/michael-alexander-574611343/))]([https://linkedin.com/in/michael-alexander-574611343/](https://linkedin.com/in/michael-alexander-574611343/))
+[![Linkedin Badge](https://img.shields.io/badge/-MichaelAlexander-blue?style=flat&logo=Linkedin&logoColor=white&link=[[[[https://www.linkedin.com/in/erikfinkel](https://linkedin.com/in/michael-alexander-574611343)](https://linkedin.com/in/michael-alexander-574611343)/](https://linkedin.com/in/michael-alexander-574611343)](https://linkedin.com/in/michael-alexander-574611343/))]([https://linkedin.com/in/michael-alexander-574611343/](https://linkedin.com/in/michael-alexander-574611343/))
 
 ## 🚀 Languages and Tools:
 
