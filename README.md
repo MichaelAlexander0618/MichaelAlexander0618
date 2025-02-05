@@ -1,12 +1,24 @@
-# 💫 About Me:
-Hi, I am Michael Alexander. I am a Backend focused Full Stack Engineer.
+# 💻 About Me:
+Hi, I am Michael Alexander. I am a Senior Backend Developer.
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-MichaelAlexander-blue?style=flat&logo=Linkedin&logoColor=white&link=[[[[https://www.linkedin.com/in/erikfinkel](https://linkedin.com/in/michael-alexander-574611343)](https://linkedin.com/in/michael-alexander-574611343)/](https://linkedin.com/in/michael-alexander-574611343)](https://linkedin.com/in/michael-alexander-574611343/))]([https://linkedin.com/in/michael-alexander-574611343/](https://linkedin.com/in/michael-alexander-574611343/))
 
+## 🚀 Overview
+🔹 12+ years of expertise in designing and developing scalable backend systems and robust infrastructure.<br>
+🔹 Proficient in Python, AWS, Go, C#, Node.js, and React, optimizing performance and integrating complex systems efficiently.<br>
+🔹 Passionate about cloud computing, microservices, and distributed systems, ensuring high availability and reliability.<br>
+🔹 Skilled in Docker, Kubernetes, CI/CD, and database optimization for seamless deployments and efficient data management.<br>
+🔹 Strong problem-solver, collaborating with diverse teams to deliver impactful and high-performance software solutions.<br><br>
+
 ## 🚀 Languages and Tools:
 
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -23,10 +35,5 @@ Hi, I am Michael Alexander. I am a Backend focused Full Stack Engineer.
   <img alt="Prettier" src="https://img.shields.io/badge/-Eslint-4A32C3?style=flat-square&logo=eslint&logoColor=white" />
 </p>
 
-## 🚀 Overview
-🔹 12+ years of expertise in designing and developing scalable backend systems and robust infrastructure.<br>
-🔹 Proficient in Python, AWS, Go, C#, Node.js, and React, optimizing performance and integrating complex systems efficiently.<br>
-🔹 Passionate about cloud computing, microservices, and distributed systems, ensuring high availability and reliability.<br>
-🔹 Skilled in Docker, Kubernetes, CI/CD, and database optimization for seamless deployments and efficient data management.<br>
-🔹 Strong problem-solver, collaborating with diverse teams to deliver impactful and high-performance software solutions.<br><br>
+
 💡 Let’s build something great!
