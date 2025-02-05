@@ -23,4 +23,10 @@ Hi, I am Michael Alexander. I am a Backend focused Full Stack Engineer.
   <img alt="Prettier" src="https://img.shields.io/badge/-Eslint-4A32C3?style=flat-square&logo=eslint&logoColor=white" />
 </p>
 
-Experienced Python Backend Developer with over 12 years of expertise in creating scalable backend systems and building reliable infrastructure. Profcient in Python combined with AWS, Go, C#, Node, and React, with a proven ability to optimize performance and integrate systems effciently. Passionate about delivering impactful software solutions while collaborating with diverse teams to meet technical and business goals.
+## 🚀 Overview
+🔹 12+ years of expertise in designing and developing scalable backend systems and robust infrastructure.<br>
+🔹 Proficient in Python, AWS, Go, C#, Node.js, and React, optimizing performance and integrating complex systems efficiently.<br>
+🔹 Passionate about cloud computing, microservices, and distributed systems, ensuring high availability and reliability.<br>
+🔹 Skilled in Docker, Kubernetes, CI/CD, and database optimization for seamless deployments and efficient data management.<br>
+🔹 Strong problem-solver, collaborating with diverse teams to deliver impactful and high-performance software solutions.<br><br>
+💡 Let’s build something great!
