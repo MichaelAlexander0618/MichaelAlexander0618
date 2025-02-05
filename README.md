@@ -17,7 +17,7 @@ Hi, I am Michael Alexander. I am a Senior Backend Developer.
   <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=golang&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=aws&logoColor=white" />
-  <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
