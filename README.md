@@ -14,7 +14,7 @@ Hi, I am Michael Alexander. I am a Senior Backend Developer.
 ## 🚀 Languages and Tools:
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=docker&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23?style=flat-square&logo=docker&logoColor=white" />
